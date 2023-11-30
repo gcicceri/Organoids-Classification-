@@ -9,7 +9,7 @@ def extract_objects(image_path, annotations_txt, output_folder):
 
     # Check if the image was read correctly.
     if image is None:
-        print(f"Errore: impossibile leggere l'immagine {image_path}")
+        print(f"Error: unable to read image {image_path}")
         return
 
     # Get the size of the image.
