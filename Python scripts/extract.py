@@ -9,7 +9,7 @@ def extract_objects(image_path, annotations_txt, output_folder):
 
     # Check if the image was read correctly.
     if image is None:
-        print(f"Error: unable to read image {image_path}")
+        print(f"Error: unable to read image  {image_path}")
         return
 
     # Get the size of the image.
@@ -34,7 +34,7 @@ def extract_objects(image_path, annotations_txt, output_folder):
         
         # Check if the object image is empty.
         if object_image.size == 0:
-            print(f"Errore: l'immagine dell'oggetto estratta è vuota per {image_path}")
+            print(f"Error: extracted object image is empty for  {image_path}")
             continue
 
         # Create a folder specific to the current class_id, if it does not exist.
@@ -54,13 +54,20 @@ def extract_objects(image_path, annotations_txt, output_folder):
         cv2.imwrite(output_path, resized_object_image)
 
 # Input and output folders
-images_folder = '/Users/giovannicicceri/Desktop/organoids_experiments/images/'
-labels_folder = '/Users/giovannicicceri/Desktop/organoids_experiments/labels/'
-output_folder = '/Users/giovannicicceri/Desktop/organoids_experiments/output/'
+images_folder = '/images/'
+labels_folder = '/labels/'
+output_folder = '/train_folder/'
 
 # List all files in image and annotation folders.
-image_files = sorted(os.listdir(images_folder))
-annotation_files = sorted(os.listdir(labels_folder))
+#image_files = sorted(os.listdir(images_folder))
+#annotation_files = sorted(os.listdir(labels_folder))
+
+# List all files in image and annotation folders.
+image_files = sorted([f for f in os.listdir(images_folder) if f != '.DS_Store'])
+annotation_files = sorted([f for f in os.listdir(labels_folder) if f != '.DS_Store'])
+
+print (len(image_files))
+print (len(annotation_files))
 
 # Make sure the image and annotation folders contain the same number of files.
 assert len(image_files) == len(annotation_files)
@@ -76,4 +83,3 @@ for image_file, annotation_file in zip(image_files, annotation_files):
     # Increases the counter and prints its value.
     counter += 1
     print(f"Process {counter} pairs of images and annotations.")
-
