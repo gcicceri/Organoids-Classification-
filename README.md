@@ -10,5 +10,5 @@ Before training the DL models, it's necessary to prepare the data. This includes
 After preparing the data, select the DL models to the training step. This repository includes 6 DL model python scripts (.ipynb). Refer to the **documentation/DL Models** folder to train the selected DL model. 
 
 ## Step 3 - Evaluation
-After training, evaluate the DL model with the test dataset. This will help to understand the effectiveness of the DL model in classifying organoids.
+After training, evaluate your trained DL model with the test dataset. This will help to understand the effectiveness of the DL model in classifying organoids.
 
