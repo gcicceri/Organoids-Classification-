@@ -4,7 +4,7 @@ Within this repository, the main python scripts for pulling the proposed DL mode
 
 
 ## Step 1 - Data Preparation
-Before training the DL models, it's necessary to prepare the data. This includes splitting the data into training, validation, and test sets from the original dataset of intestinal organoid annotated images, available at the zenodo archive **https://zenodo.org/records/6768583#.Y_S9uHbP2Uk**. Run **extract.py** and **Extract_Val_from_Train.py** inside Python scripts folder to perform this step.
+Before training the DL models, it's necessary to prepare the data. This includes splitting the data into training, validation, and test sets from the original dataset of intestinal organoid annotated images, available at the zenodo archive **https://zenodo.org/records/6768583#.Y_S9uHbP2Uk**. Run **extract.py** and **Extract_Val_from_Train.py** inside Python scripts folder to perform this step. The final dataset is available under request access at the following link: **https://drive.google.com/drive/folders/1VBfK-1mJI8zpqEfmzp2ShcD2eo5YYMVU?usp=sharing**
 
 ## Step 2 - Model Selection and Training 
 After preparing the data, select the DL models to the training step. This repository includes 6 DL model python scripts (.ipynb). Refer to the **documentation/DL Models** folder to train the selected DL model. 
