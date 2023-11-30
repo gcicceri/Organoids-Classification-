@@ -1,4 +1,3 @@
 # Organoids-Classification-
 
-Within this repository, find the main features (weights and coding) of the DL models for the classification approach. The aim is to assist researchers in choosing a more direct model for classifying organoids into appropriate classes.
-
+Within this repository, the main scripts for pulling the proposed DL models for the multiclassification approach can be found. The aim is to assist researchers in choosing and training the a DL model for classifying organoids into appropriate classes.
