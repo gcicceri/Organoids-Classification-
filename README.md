@@ -1,5 +1,8 @@
 # Organoids-Classification-
 
+![1691166996093929_class_3 0_3](https://github.com/gcicceri/Organoids-Classification-/assets/13137847/99d8d74e-0494-45cc-b4f5-575bbbf877e4)
+
+
 Within this repository, the main Python scripts for pulling the proposed DL models for the multiclassification approach can be found. The aim is to assist researchers in choosing and training a DL model for classifying organoids into appropriate classes.
 
 
