@@ -13,7 +13,7 @@ This repository contains the implementation of various deep learning models used
 
 1. [Data Preparation](#data-preparation)
 2. [Model Selection and Training](#model-selection-and-training)
-3. [Evaluation](#model-evaluation)
+3. [Evaluation](#evaluation)
 4. [Contacts](#contacts)
 
 
