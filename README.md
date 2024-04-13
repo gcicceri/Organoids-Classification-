@@ -28,16 +28,10 @@ Refer to the **documentation/DL Models** folder to run the selected DL model.
 
 
 ## Evaluation
-After training, evaluate your trained DL model with the test dataset. This will help to understand the effectiveness of the DL model in classifying organoids.
-
-To evaluate the misclassified images, we produced an .xlsx file uploaded to our GitHub repository, in which we report the correct label of each image and prediction of each model. 
-
-
-## Evaluation
 
 Once training is complete, you can assess the performance of your deep learning model using the provided test dataset. This evaluation is critical for determining the model's capability to accurately classify organoids.
 
-Additionally, for an in-depth analysis of the model's predictions, refer to the `Misclassification_Report.xlsx` file available in xxx.  
+Additionally, for an in-depth analysis of the model's predictions, refer to the `Misclassification_Report.xlsx` file.  
 This file details the true labels alongside the predicted labels for each image, offering insights into the model's classification patterns and highlighting areas for potential improvement.
 
 
