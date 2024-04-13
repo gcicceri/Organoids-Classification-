@@ -1,0 +1,24 @@
+name: organoid-classification
+
+channels:
+  - defaults
+  - conda-forge
+  - pytorch  # Add PyTorch channel for direct installation
+
+dependencies:
+  - python=3.8  # or any specific version required by your project
+  - numpy
+  - matplotlib
+  - pandas
+  - scikit-learn
+  - tensorflow-gpu  # or tensorflow
+  - pytorch  # PyTorch
+  - torchvision  # If you need it
+  - torchaudio  # If you need it
+  - cudatoolkit=10.2  # Specify the CUDA version compatible with your PyTorch build if GPU support is required
+  - jupyter
+  - notebook
+  - pip
+  - pip:
+    - some-pip-package==1.0.0  # Replace with actual pip packages
+
