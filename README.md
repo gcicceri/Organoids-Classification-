@@ -31,7 +31,11 @@ After training, evaluate your trained DL model with the test dataset. This will 
 
 
 ## Contacts
-(Your contact information or instructions on how to get in touch for help.)
+
+Giovanni Cicceri
+Researcher
+University of Palermo
+giovanni.cicceri@unipa.it
 
 
 
