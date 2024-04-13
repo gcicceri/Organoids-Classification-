@@ -12,14 +12,24 @@ This repository contains the implementation of various deep learning models used
 ## Table of Contents
 
 1. [Data Preparation](#data-preparation)
-2. [Model Selection and Training](#model-selection-and-training)
-3. [Evaluation](#evaluation)
-4. [Contacts](#contacts)
+2. [Official Dataset](#official-dataset)
+3. [Model Selection and Training](#model-selection-and-training)
+4. [Evaluation](#evaluation)
+5. [Contacts](#contacts)
 
 
 ## Data Preparation
 Before training the DL models, it's necessary to prepare the data. This includes splitting the data into training, validation, and test sets from the original dataset of intestinal organoid annotated images, available at the zenodo archive **https://zenodo.org/records/6768583#.Y_S9uHbP2Uk**.  
 Run **extract.py** and **Extract_Val_from_Train.py** inside the Python scripts folder to perform this step.
+
+## Official Dataset
+
+The dataset used for this study is hosted on Google Drive and can be accessed through the following link:
+
+[Download Dataset from Google Drive](https://your-google-drive-link-here)
+
+Please ensure you comply with the terms of use and citation requirements as described in the associated publication.
+
 
 ## Model Selection and Training 
 After preparing the data, select the DL models for the training step.   
