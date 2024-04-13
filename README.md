@@ -6,9 +6,31 @@
 ![1691166997207764_class_3 0_4](https://github.com/gcicceri/Organoids-Classification-/assets/13137847/30914409-ff2c-4768-b314-f9354e3e3164)
 
 
-This repository contains the implementation of various deep learning models used in our study to classify intestinal organoids. The project evaluates several popular architectures like DenseNet169, MobileNetV2, ResNet50v2, InceptionV3, VGG16, and ViTs to determine which performs best in the organoid classification task. 
+This repository contains the implementation of various deep learning models used in our study to classify intestinal organoids. The project evaluates several popular architectures like DenseNet169, MobileNetV2, ResNet50v2, InceptionV3, VGG16, and ViTs to determine which performs best in the organoid classification task. Within this repository, the main Python scripts for pulling the proposed DL models for the multiclassification approach can be found. The aim is to assist researchers in choosing and training a DL model for classifying organoids into appropriate classes.
 
-Within this repository, the main Python scripts for pulling the proposed DL models for the multiclassification approach can be found. The aim is to assist researchers in choosing and training a DL model for classifying organoids into appropriate classes.
+
+## Table of Contents
+
+1. [Getting Started](#getting-started)
+2. [Building a Dataset](#building-a-dataset)
+   - [Additional data](#additional-data)
+3. [Model Training](#model-training)
+4. [Contacts](#contacts)
+
+## Getting Started
+(Explain how to get the project up and running.)
+
+## Building a Dataset
+(Describe how to build the dataset needed for the project.)
+### Additional data
+(Detail any additional data that might be needed.)
+
+## Model Training
+(Instructions on how to train the models.)
+
+## Contacts
+(Your contact information or instructions on how to get in touch for help.)
+
 
 
 ## Step 1 - Data Preparation
