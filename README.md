@@ -18,11 +18,12 @@ This repository contains the implementation of various deep learning models used
 
 
 ## Data Preparation
-Before training the DL models, it's necessary to prepare the data. This includes splitting the data into training, validation, and test sets from the original dataset of intestinal organoid annotated images, available at the zenodo archive **https://zenodo.org/records/6768583#.Y_S9uHbP2Uk**. Run **extract.py** and **Extract_Val_from_Train.py** inside the Python scripts folder to perform this step.
+Before training the DL models, it's necessary to prepare the data. This includes splitting the data into training, validation, and test sets from the original dataset of intestinal organoid annotated images, available at the zenodo archive **https://zenodo.org/records/6768583#.Y_S9uHbP2Uk**.  
+Run **extract.py** and **Extract_Val_from_Train.py** inside the Python scripts folder to perform this step.
 
 ## Model Selection and Training 
-After preparing the data, select the DL models for the training step. 
-This repository includes six DL-model Python scripts (.ipynb). 
+After preparing the data, select the DL models for the training step.   
+This repository includes six DL-model Python scripts (.ipynb).   
 Refer to the **documentation/DL Models** folder to run the selected DL model. 
 
 
