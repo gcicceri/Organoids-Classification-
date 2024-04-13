@@ -37,10 +37,11 @@ This repository contains Jupyter Notebook scripts for each of the six deep learn
 
 ## Evaluation
 
-Once training is complete, you can assess the performance of your deep learning model using the provided test dataset. This evaluation is critical for determining the model's capability to accurately classify organoids.
-
-Additionally, for an in-depth analysis of the model's predictions, refer to the `Misclassification_Report.xlsx` file.  
+Upon completion of the training phase, our experiments allowed for the evaluation of the six deep learning model's performance via the included test dataset. This step was essential for verify the model's proficiency in accurately classifying organoid images.
+For an in-depth analysis of the model's predictions, refer to the `Misclassification_Report.xlsx` file.  
 This file details the true labels alongside the predicted labels for each image, offering insights into the model's classification patterns and highlighting areas for potential improvement.
+
+
 
 
 ## Contacts
