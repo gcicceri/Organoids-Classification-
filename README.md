@@ -30,12 +30,17 @@ Refer to the **documentation/DL Models** folder to run the selected DL model.
 After training, evaluate your trained DL model with the test dataset. This will help to understand the effectiveness of the DL model in classifying organoids.
 
 
+
 ## Contacts
 
-Giovanni Cicceri
+For any inquiries or further assistance with this project, please reach out to:
+
+**Project Lead**  
+Dr. Giovanni Cicceri 
 Researcher
 University of Palermo
-giovanni.cicceri@unipa.it
+Email: [giovanni.cicceri@unipa.it](mailto:giovanni.cicceri@unipa.it)
+
 
 
 
