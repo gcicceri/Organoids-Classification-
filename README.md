@@ -47,7 +47,7 @@ This file details the true labels alongside the predicted labels for each image,
 
 
 
-## Contacts
+## Contact
 
 For any inquiries or further assistance with this project, please reach out to:
 
