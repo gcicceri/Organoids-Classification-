@@ -15,7 +15,7 @@ This repository contains the implementation of various deep learning models used
 2. [Final Dataset](#final-dataset)
 3. [Model Selection and Training](#model-selection-and-training)
 4. [Evaluation](#evaluation)
-5. [Contacts](#contacts)
+5. [Contact](#contacts)
 
 
 ## Data Preparation
