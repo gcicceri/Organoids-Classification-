@@ -40,7 +40,7 @@ This repository contains Jupyter Notebook scripts for each of the six deep learn
 Upon completion of the training phase, our experiments allowed for the evaluation of the six deep learning model's performance via the included test dataset. This step was essential for verify the model's proficiency in accurately classifying organoid images.
 
 The trained model weights are an essential part of the deep learning model evaluation process, enabling the replication of our results. We have hosted the weights on Google Drive.
-You can download the model weights from the following link: [Download Model Weights from Google Drive](https://drive.google.com/drive/folders/16fpBoQN1SpueBAWhNcDRJqX526eU-W3k?usp=sharing). Please ensure you comply with any terms of use associated with the data and cite the appropriate paper references when using these weights in your work.  
+You can download the **DL models weights** from the following link: [Download Models Weights from Google Drive](https://drive.google.com/drive/folders/16fpBoQN1SpueBAWhNcDRJqX526eU-W3k?usp=sharing). Please ensure you comply with any terms of use associated with the data and cite the appropriate paper references when using these weights in your work.  
 
 For an in-depth analysis of the model's predictions, refer to the `Misclassification_Report.xlsx` file.  
 This file details the true labels alongside the predicted labels for each image, offering insights into the model's classification patterns and highlighting areas for potential improvement.
