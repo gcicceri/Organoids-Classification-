@@ -33,7 +33,8 @@ Please ensure you comply with the terms of use and citation requirements as desc
 
 ## Model Selection and Training 
 
-This repository contains Jupyter Notebook scripts for each of the six deep learning models. To execute the DL models, please navigate to the **Documentation/DL Models** folder. These notebooks are designed to be run in Google Colab, which provides a powerful and interactive cloud-based environment equipped with GPU support to facilitate the training process. Simply open the desired model notebook in Colab and follow the instructions to initiate the training step. To access the Jupyter Notebooks, please contact the corresponding authors for further details and request access.
+This repository also contains Jupyter Notebook scripts for each of the six deep-learning models. These notebooks are designed to be run in Google Colab, which provides a powerful and interactive cloud-based environment equipped with GPU support to facilitate the training process. Simply open the desired model notebook in Colab and follow the instructions to initiate the training step. To access the Jupyter Notebooks, please contact the corresponding authors for further details and request access.
+
 
 ## Evaluation
 
