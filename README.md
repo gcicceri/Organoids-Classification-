@@ -43,7 +43,7 @@ Upon completion of the training phase, our experiments allowed for the evaluatio
 The trained model weights are an essential part of the deep learning model evaluation process, enabling the replication of our results. We have hosted the weights on Google Drive.
 You can download the **DL models weights** from the following link: [Download Models Weights from Google Drive](https://drive.google.com/drive/folders/16fpBoQN1SpueBAWhNcDRJqX526eU-W3k?usp=sharing). Please ensure you comply with any terms of use associated with the data and cite the appropriate paper references when using these weights in your work.  
 
-For an in-depth analysis of the model's predictions, refer to the `Misclassification_Report.xlsx` file.  
+For an in-depth analysis of the model's predictions, refer to the `Misclassification.xlsx` file.  
 This file details the true labels alongside the predicted labels for each image, offering insights into the model's classification patterns and highlighting areas for potential improvement.
 
 
