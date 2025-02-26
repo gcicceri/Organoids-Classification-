@@ -24,7 +24,7 @@ Run **extract.py** and **Extract_Val_from_Train.py** inside the Python scripts f
 
 ## Final Dataset
 
-The **final dataset** built and used in this study is hosted on Zenodo repository and can be accessed through the following link:
+The **final dataset** built and used in this study is hosted on Zenodo repository and can be accessed (upon request) through the following link:
 
 [Download Dataset from Zenodo](https://zenodo.org/records/14725323)
 
