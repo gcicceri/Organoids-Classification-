@@ -24,9 +24,9 @@ Run **extract.py** and **Extract_Val_from_Train.py** inside the Python scripts f
 
 ## Final Dataset
 
-The **final dataset** built and used in this study is hosted on Google Drive and can be accessed through the following link:
+The **final dataset** built and used in this study is hosted on Zenodo repository and can be accessed through the following link:
 
-[Download Dataset from Google Drive](https://drive.google.com/drive/folders/1VBfK-1mJI8zpqEfmzp2ShcD2eo5YYMVU?usp=sharing)
+[Download Dataset from Zenodo](https://zenodo.org/records/14725323)
 
 Please ensure you comply with the terms of use and citation requirements as described in the associated publication.
 
